@@ -1,18 +1,18 @@
-sesta ------->>> iz desete grana 1
-sesta ------->>> iz desete grana 2
+sesta <<<<<->>> iz desete grana 1
+sesta <<<<<->>> iz desete grana 2
 
 sesta grana 3
 
-sesta ------->>> iz desete grana 4
-sesta ------->>> iz desete grna 4.4
+sesta <<<<<->>> iz desete grana 4
+sesta <<<<<->>> iz desete grna 4.4
 
-sesta ------->>> iz desete grana 1
-sesta ------->>> iz desete grana 2
+sesta <<<<<->>> iz desete grana 1
+sesta <<<<<->>> iz desete grana 2
 
 sesa grana 3
 
-sesta ------->>> iz desete grana 4
-sesta ------->>> iz desete grna 4.4
+sesta <<<<<->>> iz desete grana 4
+sesta <<<<<->>> iz desete grna 4.4
 
 sdfsdfsd
 
@@ -21,6 +21,6 @@ sdfsdfsd
 peta grana 1
 peta grana 2
 
-------------------------
+<<<<<<<<<<<<<<<<<<<<
 prva 1
 prva 2
