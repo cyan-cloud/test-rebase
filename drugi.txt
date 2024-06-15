@@ -1,26 +1,20 @@
 aaaaaa cetvrta grana
 
-sesta grana 1
-sesta grana 2
-
-
+sesta -> iz desete grana 1
+sesta -> iz desete grana 2
 
 sesa grana 3
 
-sesta grana 4
-sesta grna 4.4
+sesta -> iz desete grana 4
+sesta -> iz desete grna 4.4
 
-sesta grana 1
-sesta grana 2
+sesta -> iz desete grana 1
+sesta -> iz desete grana 2
 
 sesa grana 3
 
-sesta grana 4
-sesta grna 4.4
+sesta -> iz desete grana 4
+sesta -> iz desete grna 4.4
 
 peta grana 1
 peta grana 2
-
-sedma 1
-
-sedma 2
