@@ -1,14 +1,19 @@
-sesta <<<<<->>> iz desete grana 1
-sesta <<<<<->>> iz desete grana 2
+aaaaaa cetvrta grana -----neka izmena
+
+sesta ------->>> iz desete grana 1
+sesta ------->>> iz desete grana 2
 
 sesta grana 3
 
-sesta <<<<<->>> iz desete grana 4
-sesta <<<<<->>> iz desete grna 4.4
-------------------------------------------------------------
-sesta <<<<<->>> iz desete grana 1
-sesta <<<<<->>> iz desete grana 2
-++++++++++++++++++++++++++++++++++++++++++++++++++++++========
+sesta ------->>> iz desete grana 4
+sesta ------->>> iz desete grna 4.4
+
+
+(45+232) - 0.22
+
+sesta ------->>> iz desete grana 1
+sesta ------->>> iz desete grana 2
+================================================
 sesa grana 3
 
 sesta <<<<<->>> iz desete grana 4
@@ -18,9 +23,34 @@ sdfsdfsd
 
 09090
 
+sesta grana 1
+sesta grana 2
+
+
+44444444444444444444 iz osme
+
+----
+nesto
+
+----
+sedma 1
+sedma 2
+
+----------------------
+osma 1
+osma 2
+osma 3
+
 peta grana 1
 peta grana 2
 
 <<<<<<<<<<<<<<<<<<<<
 prva 1
 prva 2
+
+opet osma 4
+opet osma 5
+opet osma 6
+
+osma 7
+----------------------
