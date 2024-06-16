@@ -20,14 +20,9 @@ sesta <<<<<->>> iz desete grana 4
 sesta <<<<<->>> iz desete grna 4.4
 samo na lokalu
 sdfsdfsd
-
-09090
-
 sesta grana 1
 sesta grana 2
 
-
-44444444444444444444 iz osme
 
 ----
 nesto
