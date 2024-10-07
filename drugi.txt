@@ -69,3 +69,4 @@ neka druga hoce ovde 4
 ovde sad nesto
 
 abc1
+abc2 sa druge strane
