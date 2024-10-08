@@ -52,8 +52,6 @@ osma 7
 ----------------------
 
 
-
-
 aj opet
 aj opet 2
 aj opet 3
@@ -68,3 +66,4 @@ neka druga hoce ovde 4
 
 ovde sad nesto
 aj sad ovde nesto
+ajd ovde
