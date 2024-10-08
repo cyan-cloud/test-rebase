@@ -40,7 +40,7 @@ osma 3
 peta grana 1
 peta grana 2
 
-
+<<<<<<<<<<<<<<<<<<<<
 prva 1
 prva 2
 hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh()())()(hhhhhhhhhhhhhhhhhhhhhhh
@@ -68,3 +68,6 @@ neka druga hoce ovde 4
 
 ovde sad nesto
 aj sad ovde nesto
+
+nesto niv
+ajde nesto ovde ajde nesto
